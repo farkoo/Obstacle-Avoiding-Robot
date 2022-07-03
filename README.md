@@ -9,21 +9,18 @@ In the following, there are pictures of the robot and how to connect different p
 
 <p align=center>
   
-<img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/img1.jpg" width=300 height=250> | <img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/img2.jpg" width=300 height=250>
+<img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/img1.jpg" width=350 height=350> | <img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/img2.jpg" width=350 height=350>
 :-------------:|:--------------------:
-<img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/img3.jpg" width=300 height=250> | <img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/img4.jpg" width=300 height=250>
+<img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/img3.jpg" width=350 height=350> | <img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/img4.jpg" width=350 height=350>
 
 </p>
 
 
 
-<img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/execution.gif">
-
-
 
 <p align=center>
 
-<img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/execution.gif" width=300 height=250>
+<img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/execution.gif">
 
 </p>
 
