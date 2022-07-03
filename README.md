@@ -15,13 +15,18 @@ In the following, there are pictures of the robot and how to connect different p
 
 </p>
 
+
+
 <img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/execution.gif">
+
+
 
 <p align=center>
 
 <img src="https://github.com/farkoo/obstacle-avoiding-robot/blob/master/execution.gif" width=300 height=250>
 
 </p>
+
 
 
 ## Support
